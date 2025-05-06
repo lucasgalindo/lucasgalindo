@@ -10,12 +10,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) 
-- ![React](https://img.shields.io/badge/React-%2300D1F2.svg?style=flat&logo=react&logoColor=white) 
-- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white) 
-- ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-%2300D1F2.svg?style=flat&logo=react&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) 
 
 
 ---
@@ -64,7 +59,4 @@ Curioso por natureza, já explorei outras áreas do conhecimento como Lic. em Ma
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LucasGalindo-blue?logo=linkedin)](https://www.linkedin.com/in/lucas-galindo-6707aa26b/)
 
----
 
-<!-- Snake animation -->
-![snake gif](https://github.com/lucasgalindo/lucasgalindo/blob/output/github-contribution-grid-snake.svg)
