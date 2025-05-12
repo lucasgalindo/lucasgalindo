@@ -23,6 +23,11 @@ Atualmente aprofundando conhecimentos em:
 - **Docker**
 - **Testes Unitários**
 
+Possuo interesse em aprender sobre:
+- **Micro Frontends (MFE)**
+- **Integração Contínua (CI/CD)**
+- **Ambientes em nuvem (AWS)*
+
 Estou sempre em busca de evoluir e expandir minhas habilidades para me tornar um desenvolvedor ainda mais completo.
 
 ---
