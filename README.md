@@ -10,23 +10,31 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) HTML5
-- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) CSS3
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) JavaScript
-- ![React](https://img.shields.io/badge/React-%2300D1F2.svg?style=flat&logo=react&logoColor=white) React
-- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white) Flutter
-- ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) Git
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/scrum.png" width="40" title="Scrum"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/kanban.png" width="40" title="Kanban"/>
+</p>
 
 ---
 
 ## 📚 Em constante aprendizado
 
 Atualmente aprofundando conhecimentos em:
-- **Java & Spring Boot**
 - **NodeJS**
 - **Docker**
 - **Testes Unitários**
+
+Possuo interesse em aprender sobre:
+- **Micro Frontends (MFE)**
+- **Integração Contínua (CI/CD)**
+- **Ambientes em nuvem (AWS)**
 
 Estou sempre em busca de evoluir e expandir minhas habilidades para me tornar um desenvolvedor ainda mais completo.
 
@@ -64,7 +72,4 @@ Curioso por natureza, já explorei outras áreas do conhecimento como Lic. em Ma
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LucasGalindo-blue?logo=linkedin)](https://www.linkedin.com/in/lucas-galindo-6707aa26b/)
 
----
 
-<!-- Snake animation -->
-![snake gif](https://github.com/lucasgalindo/lucasgalindo/blob/output/github-contribution-grid-snake.svg)
