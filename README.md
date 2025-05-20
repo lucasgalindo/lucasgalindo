@@ -18,8 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/scrum.png" width="40" title="Scrum"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/kanban.png" width="40" title="Kanban"/>
 </p>
 
 ---
